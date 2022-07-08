@@ -13,5 +13,10 @@ int subtract_arth(int x,int y)
 	{
 		return 0;
 	}
-	
 }
+int multiplication_arth(int l, int m)
+{
+	return l*m;
+}
+	
+
