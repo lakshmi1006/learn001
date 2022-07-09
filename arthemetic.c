@@ -18,5 +18,10 @@ int multiplication_arth(int l, int m)
 {
 	return l*m;
 }
+
+double division_arth(double numarator, int dinomonator)
+{
+	return numarator/dinomonator;
+}
 	
 
